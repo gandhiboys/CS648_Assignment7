@@ -2,8 +2,8 @@
 This is the _Assignment 7_ of course **CS-648**
 
 #### Abstract
-The seventh assignment revolves around functions and DOM in JavaScript. 
-This assignment is about multiple functions practice in javascripts.
+The seventh assignment is on JavaScript functions and DOM.
+This assignment is about practicing various functions in Javascript.
 
 ### Introduction
 This is based on the seventh assignment on JavaScript. 
